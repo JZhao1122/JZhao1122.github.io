@@ -1,0 +1,35 @@
+title: Jian Zhao
+owner:
+  name: Jian Zhao
+  avatar: JianZhao.jpg
+  email: zhaojian2022@bupt.edu.cn
+  cv: https://jianzhao.com/file/CV-HanlinCAI.pdf
+  github: JZhao1122
+  scholar: https://scholar.google.com/citations?user=8igSoWgAAAAJ
+
+google_verify: "SkiyuGpJOKT74vv5GmXLvYXXDkXy4v8VWPtbelYz3Hs"
+
+links:
+  - title: About Me
+    url: /
+
+timezone: China/Beijing
+future: true
+highlighter: rouge
+
+permalink:   /:categories/:title
+
+
+kramdown:
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  enable_coderay: false
+
+# disqus settings:
+disqus:
+  shortname: lancecai
+
+include: [".htaccess"]
+exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "minimal-mistakes.sublime-project", "minimal-mistakes.sublime-workspace"]
