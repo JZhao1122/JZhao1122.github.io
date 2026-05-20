@@ -1,0 +1,10 @@
+:root {
+  --theme: #FBF8F1;
+  --entry: #FBF8F1;
+  --code-bg: #F0EBDD;
+}
+
+body {
+  font-family: "Palatino", "Palatino Linotype", "Source Serif 4",
+               "PingFang SC", "Noto Sans SC", "Microsoft YaHei", sans-serif;
+}
